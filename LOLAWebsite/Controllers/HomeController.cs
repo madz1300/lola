@@ -26,5 +26,12 @@ namespace LOLAWebsite.Controllers
 
             return View();
         }
+
+        public ActionResult Donations()
+        {
+            ViewBag.Message = "Your donation page.";
+
+            return View();
+        }
     }
 }

@@ -25,7 +25,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#">Donations</a>
+                        @Html.ActionLink("Home", "Index", "Home")
+                    </li>
+                    <li>
+                        @Html.ActionLink("Donations","Donations","Home")
                     </li>
                     <li>
                         <a href="#">Classes</a>

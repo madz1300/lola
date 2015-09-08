@@ -20,3 +20,15 @@ h1 {
 .largetext {
     font-size: large;
 }
+
+.tabin {
+    padding-left: 10px;
+}
+
+.largespacer {
+    margin-top: 40px;
+}
+
+.smallspacer {
+    margin-top: 20px;
+}
