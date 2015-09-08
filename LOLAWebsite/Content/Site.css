@@ -1,0 +1,22 @@
+﻿html {
+    width: 100%;
+}
+h1 {
+    font-size: x-large;
+}
+.navbarpad {
+    padding-top: 50px;
+}
+
+#homelogo {
+    width: 300px;
+    max-width: 100%;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.largetext {
+    font-size: large;
+}
