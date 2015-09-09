@@ -19,7 +19,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/08/2015 12:14:37</publishTime>
     </File>
     <File Include="bin/LOLAWebsite.dll">
-      <publishTime>09/08/2015 13:03:01</publishTime>
+      <publishTime>09/08/2015 22:32:06</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
       <publishTime>09/08/2015 12:14:38</publishTime>
@@ -100,7 +100,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/08/2015 12:14:26</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>09/08/2015 13:25:52</publishTime>
+      <publishTime>09/08/2015 17:32:05</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>09/08/2015 12:14:26</publishTime>
@@ -228,6 +228,15 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="img/logo.png">
       <publishTime>09/08/2015 12:14:30</publishTime>
     </File>
+    <File Include="img/socialicons/facebook.png">
+      <publishTime>09/08/2015 16:47:12</publishTime>
+    </File>
+    <File Include="img/socialicons/twitter.png">
+      <publishTime>09/08/2015 16:47:07</publishTime>
+    </File>
+    <File Include="img/socialicons/youtube.png">
+      <publishTime>09/08/2015 16:47:16</publishTime>
+    </File>
     <File Include="packages.config">
       <publishTime>09/08/2015 12:14:26</publishTime>
     </File>
@@ -271,7 +280,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/08/2015 12:14:27</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>09/08/2015 12:14:26</publishTime>
+      <publishTime>09/08/2015 16:38:28</publishTime>
     </File>
     <File Include="Views/Account/ConfirmEmail.cshtml">
       <publishTime>09/08/2015 12:14:27</publishTime>
@@ -319,7 +328,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/03/2015 13:34:55</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
-      <publishTime>09/08/2015 12:14:27</publishTime>
+      <publishTime>09/08/2015 18:09:33</publishTime>
     </File>
     <File Include="Views/Home/Donations.cshtml">
       <publishTime>09/08/2015 13:27:49</publishTime>
@@ -327,11 +336,17 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Views/Home/Index.cshtml">
       <publishTime>09/08/2015 13:34:18</publishTime>
     </File>
+    <File Include="Views/Home/Media.cshtml">
+      <publishTime>09/08/2015 17:10:43</publishTime>
+    </File>
+    <File Include="Views/Home/Success.cshtml">
+      <publishTime>09/08/2015 22:26:48</publishTime>
+    </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>09/08/2015 12:14:27</publishTime>
+      <publishTime>09/08/2015 22:31:25</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>09/08/2015 13:26:21</publishTime>
+      <publishTime>09/08/2015 17:14:29</publishTime>
     </File>
     <File Include="Views/Shared/_LoginPartial.cshtml">
       <publishTime>09/08/2015 12:14:27</publishTime>

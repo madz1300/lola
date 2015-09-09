@@ -160,6 +160,6 @@ C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\bin\Microsoft.Owin.Security.OAuth
 C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\obj\Debug\LOLAWebsite.csprojResolveAssemblyReference.cache
 C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\obj\Debug\LOLAWebsite.dll
 C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\obj\Debug\LOLAWebsite.pdb
+C:\Users\Tyler\Desktop\LOLAWebsite\LOLAWebsite\obj\Debug\LOLAWebsite.csprojResolveAssemblyReference.cache
